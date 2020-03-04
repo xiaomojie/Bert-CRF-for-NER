@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="719fc275-be1e-4f42-81c7-785c22438dcf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BERT_LSTM_CRF/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner/data_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/菜名-评估-ugc-bert/label_test-copy.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BERT_NER.py" beforeDir="false" afterPath="$PROJECT_DIR$/BERT_NER.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dev.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train.txt" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner/merge_bert_nlu_res.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="804" column="62" selection-start-line="804" selection-start-column="48" selection-end-line="804" selection-end-column="62" />
+              <folding>
+                <element signature="e#175#213#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages/wheel/bdist_wheel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="109" column="13" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner/loader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="173" column="29" lean-forward="true" selection-start-line="173" selection-start-column="29" selection-end-line="173" selection-end-column="29" />
+              <folding>
+                <element signature="e#24#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner/data_utils.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pickle</find>
+      <find>batch</find>
+      <find>batch_size</find>
+      <find>use_tpu</find>
+      <find>features</find>
+      <find>per_example_loss</find>
+      <find>logits</find>
+      <find>trans</find>
+      <find>_train_model</find>
+      <find>model_fn_builder</find>
+      <find>Writer</find>
+      <find>tf.train.exa</find>
+      <find>dataser</find>
+      <find>TFRecordDataset</find>
+      <find>file_based_input_fn_builder</find>
+      <find>dataset</find>
+      <find>get_train_examples</find>
+      <find>convert_single_example</find>
+      <find>filed_based_convert_examples_to_features</find>
+      <find>create_model</find>
+      <find>input_ids</find>
+      <find>lower</find>
+      <find>tag_schema</find>
+      <find>os.path.</find>
+      <find>ckpt_path</find>
+      <find>vocab_file</find>
+      <find>config_file</find>
+      <find>prepare_dataset</find>
+      <find>data_dir</find>
+      <find>train_file</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>#</replace>
+      <replace>tf.logging.info</replace>
+      <replace>\n</replace>
+      <replace>M</replace>
+      <replace>N</replace>
+      <replace>res</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/data_origin</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bert/run_classifier.py" />
+        <option value="$PROJECT_DIR$/BERT_NER_loc.py" />
+        <option value="$PROJECT_DIR$/BERT_NER_res.py" />
+        <option value="$PROJECT_DIR$/res结果分析/label_test.txt" />
+        <option value="$PROJECT_DIR$/BERT_NER_multi_eval.py" />
+        <option value="$PROJECT_DIR$/BERT_NER_mix.py" />
+        <option value="$PROJECT_DIR$/mix/label_test.txt" />
+        <option value="$PROJECT_DIR$/mix/conlleval.py" />
+        <option value="$PROJECT_DIR$/BERT_NER_mix_separate.py" />
+        <option value="$PROJECT_DIR$/mix/merge.py" />
+        <option value="$PROJECT_DIR$/mix/ner_predict.utf8" />
+        <option value="$PROJECT_DIR$/BERT_NER_mix_confusion.py" />
+        <option value="$PROJECT_DIR$/菜名-评估/label_test.txt" />
+        <option value="$PROJECT_DIR$/菜名-评估-ugc-bert/label_test.txt" />
+        <option value="$PROJECT_DIR$/地名-评估-google-bert/ner.dev" />
+        <option value="$PROJECT_DIR$/地名-评估-google-bert/label_test.txt" />
+        <option value="$PROJECT_DIR$/地名-评估-google-bert/label_test_v2.txt" />
+        <option value="$PROJECT_DIR$/地名-评估-google-bert/label_test_v1.txt" />
+        <option value="$PROJECT_DIR$/商家名-评估-google-bert/label_test_v1.txt" />
+        <option value="$PROJECT_DIR$/商家名-评估-google-bert/merge.py" />
+        <option value="$PROJECT_DIR$/BERT_NER.py" />
+        <option value="$PROJECT_DIR$/BERT_NER_mix_修改为3列输出.py" />
+        <option value="$PROJECT_DIR$/对齐分析/v2/label_test.txt" />
+        <option value="$PROJECT_DIR$/train_data_generate/tagged_data_to_query.py" />
+        <option value="$PROJECT_DIR$/BERT_NER_mix_修改为3列输出_dis.py" />
+        <option value="$PROJECT_DIR$/BERT_NER_mix_修改为3列输出_loc.py" />
+        <option value="$PROJECT_DIR$/BERT_NER_mix_修改为3列输出_res.py" />
+        <option value="$PROJECT_DIR$/BERT_NER_mix_conll.py" />
+        <option value="$PROJECT_DIR$/data_origin/2.py" />
+        <option value="$PROJECT_DIR$/a.txt" />
+        <option value="$PROJECT_DIR$/000.txt" />
+        <option value="$PROJECT_DIR$/BERT_NER_mix_3列输出_mix_crf.py" />
+        <option value="$PROJECT_DIR$/BERT_LSTM_CRF/BERT_NER_lstm_crf_loc.py" />
+        <option value="$PROJECT_DIR$/BERT_LSTM_CRF/BERT_NER_lstm_crf_res.py" />
+        <option value="$PROJECT_DIR$/BERT_LSTM_CRF/BERT_NER_crf_dis.py" />
+        <option value="$PROJECT_DIR$/BERT_LSTM_CRF/BERT_NER_crf_loc.py" />
+        <option value="$PROJECT_DIR$/BERT_LSTM_CRF/run_conll.py" />
+        <option value="$PROJECT_DIR$/111.py" />
+        <option value="$PROJECT_DIR$/qqqqqqq.py" />
+        <option value="$PROJECT_DIR$/aaa.py" />
+        <option value="$PROJECT_DIR$/BERT_LSTM_CRF/loc_label_corrected/label_test.txt-125000-corrected" />
+        <option value="$PROJECT_DIR$/BERT_LSTM_CRF/loc_label_corrected/label_test.txt-35000-crf" />
+        <option value="$PROJECT_DIR$/BERT_LSTM_CRF/BERT_NER_lstm_crf_dis.py" />
+        <option value="$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner/BERT_NER_lstm_crf_loc_predict.py" />
+        <option value="$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner/loader.py" />
+        <option value="$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner/BERT_NER_lstm_crf_res.py" />
+        <option value="$PROJECT_DIR$/BERT_LSTM_CRF/BERT_NER_crf_res.py" />
+        <option value="$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner/merge_bert_nlu_res.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/bert-chinese-ner.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="689" />
+    <option name="y" value="23" />
+    <option name="width" value="1299" />
+    <option name="height" value="949" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bert-chinese-ner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bert-chinese-ner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bert-chinese-ner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bert-chinese-ner" type="462c0819:PsiDirectoryNode" />
+              <item name="BERT_LSTM_CRF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bert-chinese-ner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bert-chinese-ner" type="462c0819:PsiDirectoryNode" />
+              <item name="BERT_LSTM_CRF" type="462c0819:PsiDirectoryNode" />
+              <item name="merge_nlu_ner" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner" />
+      <recent name="$PROJECT_DIR$/BERT_LSTM_CRF/loc_label_corrected" />
+      <recent name="$PROJECT_DIR$/BERT_LSTM_CRF" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data_origin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner" />
+      <recent name="$PROJECT_DIR$/对齐分析/v3" />
+      <recent name="$PROJECT_DIR$/对齐分析/v2" />
+      <recent name="$PROJECT_DIR$/对齐分析/v1" />
+      <recent name="$PROJECT_DIR$/train_data_generate/data_v1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.aaa">
+    <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bert-chinese-ner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bert-chinese-ner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_origin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_origin/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aaa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bert-chinese-ner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aaa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qqqqqqq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bert-chinese-ner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qqqqqqq.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_conll" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bert-chinese-ner" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BERT_LSTM_CRF" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BERT_LSTM_CRF/run_conll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aaa" />
+        <item itemvalue="Python.qqqqqqq" />
+        <item itemvalue="Python.111" />
+        <item itemvalue="Python.run_conll" />
+        <item itemvalue="Python.2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="719fc275-be1e-4f42-81c7-785c22438dcf" name="Default Changelist" comment="" />
+      <created>1561974039487</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561974039487</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="689" y="23" width="1299" height="949" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18466353" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3275463" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2974537" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32925338" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49936628" visible="true" weight="0.35239208" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006337" side_tool="true" weight="0.1388889" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/bert" />
+      <path value="$PROJECT_DIR$/bert/bert" />
+    </ignored-roots>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/对齐分析/label_test_loc.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_NER_mix_修改为3列输出_res.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2670">
+          <caret line="195" column="25" selection-start-line="195" selection-start-column="25" selection-end-line="195" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_origin/dev.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_origin/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_origin/train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3150">
+          <caret line="210" column="14" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_origin/train_1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bert/tokenization_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对齐分析/v3/label_test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="430" column="17" selection-start-line="430" selection-start-column="17" selection-end-line="430" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_NER_mix_修改为3列输出_mix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="315" column="49" selection-start-line="315" selection-start-column="49" selection-end-line="315" selection-end-column="49" />
+          <folding>
+            <element signature="e#175#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_origin/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_NER_mix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="240" column="35" selection-start-line="240" selection-start-column="35" selection-end-line="240" selection-end-column="35" />
+          <folding>
+            <element signature="e#175#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_NER_mix_conll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="191" column="71" lean-forward="true" selection-start-line="191" selection-start-column="71" selection-end-line="191" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_NER_multi_eval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="616" column="59" lean-forward="true" selection-start-line="616" selection-start-column="59" selection-end-line="616" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/对齐分析/conlleval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="298" lean-forward="true" selection-start-line="298" selection-end-line="298" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/BERT_NER_lstm_crf_loc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5940">
+          <caret line="415" column="67" selection-start-line="415" selection-start-column="65" selection-end-line="415" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages/tensorflow/python/training/saver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="1697" selection-start-line="1697" selection-end-line="1697" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/BERT_NER_crf_loc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7650">
+          <caret line="529" column="7" selection-start-line="529" selection-start-column="7" selection-end-line="529" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/run_conll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/BERT_NER_lstm_crf_res.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1626">
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/000.txt" />
+    <entry file="file://$PROJECT_DIR$/111.py" />
+    <entry file="file://$PROJECT_DIR$/aaa.py" />
+    <entry file="file://$PROJECT_DIR$/qqqqqqq.py" />
+    <entry file="file://$PROJECT_DIR$/test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_NER_mix_3列输出_mix_crf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="531" column="16" lean-forward="true" selection-start-line="531" selection-start-column="16" selection-end-line="531" selection-end-column="16" />
+          <folding>
+            <element signature="e#175#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bert/run_classifier_with_tfhub.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="152" column="61" selection-start-line="152" selection-start-column="44" selection-end-line="152" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bert/optimization_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/loc_label_corrected/label_test.txt-125000-corrected">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="19530" column="17" lean-forward="true" selection-start-line="19530" selection-start-column="17" selection-end-line="19530" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/loc_label_corrected/conlleval.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/loc_label_corrected/label_test.txt-35000-crf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="19536" column="17" lean-forward="true" selection-start-line="19536" selection-start-column="17" selection-end-line="19536" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/BERT_NER_crf_dis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5136">
+          <caret line="484" column="66" selection-start-line="484" selection-start-column="66" selection-end-line="484" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ner.train">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ner.dev">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bert/tokenization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="177" column="6" selection-start-line="177" selection-start-column="6" selection-end-line="177" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages/tensorflow/python/estimator/estimator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="149" column="76" selection-start-line="149" selection-start-column="76" selection-end-line="149" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/collections.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages/tensorflow/python/training/monitored_session.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="487" column="6" selection-start-line="487" selection-start-column="6" selection-end-line="487" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner/BERT_NER_lstm_crf_loc_predict.py" />
+    <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/BERT_NER_lstm_crf_dis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="550" column="21" selection-start-line="550" selection-start-column="21" selection-end-line="550" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bert/modeling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="379" column="4" selection-start-line="379" selection-start-column="4" selection-end-line="379" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_NER_mix_修改为3列输出_dis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="738" column="14" selection-start-line="738" selection-start-column="8" selection-end-line="738" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_NER_loc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="305" lean-forward="true" selection-start-line="305" selection-end-line="305" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bert/run_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7470">
+          <caret line="508" column="31" selection-start-line="508" selection-start-column="4" selection-end-line="508" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages/tensorflow/core/example/example_pb2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner/data_utils.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/BERT_NER_crf_res.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6219">
+          <caret line="995" column="43" selection-start-line="995" selection-start-column="33" selection-end-line="995" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/2.7/lib/python/site-packages/wheel/bdist_wheel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="109" column="13" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/-1247972723/itertools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner/merge_bert_nlu_res.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="804" column="62" selection-start-line="804" selection-start-column="48" selection-end-line="804" selection-end-column="62" />
+          <folding>
+            <element signature="e#175#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BERT_LSTM_CRF/merge_nlu_ner/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="173" column="29" lean-forward="true" selection-start-line="173" selection-start-column="29" selection-end-line="173" selection-end-column="29" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
